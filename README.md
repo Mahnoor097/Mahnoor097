@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor097&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor097" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development and C#**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my Design projects are available at [https://dribbble.com/MahnoorUXStudio](https://dribbble.com/MahnoorUXStudio)
+- 👨‍💻 All of my projects are available at (https://github.com/Mahnoor097)
 
 - 📫 How to reach me **mahnoormehboob56@gmail.com**
 
